@@ -1,0 +1,6 @@
+src/app/code/local/Loewenstark/AlternativeProduct                                       app/code/local/Loewenstark/AlternativeProduct
+src/app/etc/modules/Loewenstark_AlternativeProduct.xml                                  app/etc/modules/Loewenstark_AlternativeProduct.xml  
+src/app/design/frontend/base/default/layout/Loewenstark_AlternativeProduct.xml          app/design/frontend/base/default/layout/Loewenstark_AlternativeProduct.xml
+src/app/design/frontend/base/default/template/loewenstark/alternativeproducts/          app/design/frontend/base/default/template/loewenstark/alternativeproducts/ 
+src/app/locale/de_DE/Loewenstark_AlternativeProduct.csv                                 app/locale/de_DE/Loewenstark_AlternativeProduct.csv
+
